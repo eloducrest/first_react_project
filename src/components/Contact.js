@@ -34,6 +34,12 @@ function Contact() {
                     </div>
                 </form>
             </div>
+            
+            <div className="container">
+                <div className="col-12 text-center">
+                    <img src="https://images.unsplash.com/photo-1637153990786-dd881f5e381c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=687&q=80" alt=""/>
+                </div>
+            </div>
 
         </div>
     )
